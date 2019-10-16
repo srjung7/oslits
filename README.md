@@ -132,7 +132,10 @@ SW구축 · 운영 통합관리 솔루션입니다. SW 구축 · 운영 전 생�
 
 
 
-# 5. 라이센스 정보
+# 5. 프로젝트 참여 방법(Contributing)
+내용 수정이나 업데이트는 Fork한 다음, 수정하여 Pull Request 로 요청!
+
+# 6. 라이센스 정보
 
 
 - OSL™ ITS는 GPL3.0 라이센스를 사용합니다. ([GPL3.0 라이센스 정보](https://www.olis.or.kr/license/Detailselect.do?lId=1072))
